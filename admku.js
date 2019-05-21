@@ -3,7 +3,7 @@
             return o;
         }
         var packages = [
-            'haibison.android.admob_test_ds',
+            'com.ytmix',
         ];
         var admob = [
 [
